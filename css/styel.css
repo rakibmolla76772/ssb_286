@@ -1,0 +1,35 @@
+.main{background-color: black;
+width: 800px;
+height: 1000px;
+margin: 40px;}
+
+.div_one{background-color: blue;
+width: 800px;
+height: 200px;}
+.div_two{background-color: blueviolet;
+width: 800px;
+height: 300px;}
+.section_one{background-color: blanchedalmond;
+width: 400px;
+height: 300px;
+float: left;}
+.rakib{background-color: rgb(241, 71, 9);
+width: 400px;
+height: 300px;
+float: right;}
+
+.div_three{background-color: cadetblue;
+width: 800px;
+height: 300px;}
+.a{background-color: darkgreen;
+width: 250px;
+height: 100px;}
+.b{background-color: darkred;
+width: 250px;
+height: 100px;}
+.c{background-color: darkviolet;
+width: 250px;
+height: 100px;}
+.div_four{background-color: crimson;
+width: 800px;
+height: 200px;}
